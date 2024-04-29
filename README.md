@@ -6,3 +6,4 @@ This library is a decorated java scanner, to avoid any exception, when the norma
 ![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=gitlab&logoSize=auto)
 
 I tested it and I can 100% confirm that it works, if you want to I can add the "main test".
+#### The import line is: "import input.SuperScanner;".
